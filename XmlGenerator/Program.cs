@@ -3,6 +3,7 @@ using System.IO;
 using System.Reflection;
 using System.Text;
 using System.Xml;
+using MyLibrary;
 
 namespace XmlGenerator
 {
