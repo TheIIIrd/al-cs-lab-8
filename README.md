@@ -5,22 +5,22 @@ File system, serialization in C#
 ```
 .
 ├── classDiagram.xml
-├── FileSearchApp
-│   ├── FileSearchApp.csproj
-│   └── Program.cs
-├── .gitignore
 ├── LICENSE
-├── MyLibrary
-│   ├── Class1.cs
-│   ├── CommentAttribute.cs
-│   └── MyLibrary.csproj
 ├── README.md
-├── SerializationDemo
-│   ├── Program.cs
-│   └── SerializationDemo.csproj
-└── XmlGenerator
-    ├── Program.cs
-    └── XmlGenerator.csproj
+└── src
+    ├── FileSearchApp
+    │   ├── FileSearchApp.csproj
+    │   └── Program.cs
+    ├── MyLibrary
+    │   ├── Class1.cs
+    │   ├── CommentAttribute.cs
+    │   └── MyLibrary.csproj
+    ├── SerializationDemo
+    │   ├── Program.cs
+    │   └── SerializationDemo.csproj
+    └── XmlGenerator
+        ├── Program.cs
+        └── XmlGenerator.csproj
 ```
 
 ## License
